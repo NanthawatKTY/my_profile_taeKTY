@@ -1,2 +1,2 @@
-# webdev_with_MERN
-This is about web development by MERN
+# My profile
+This is about my informations that developed by HTML and CSS.
